@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+
+.logo-santander{
+  height: 50px;
+}
+
+.bg-danger{
+  background-color: #fe0000 !important;
+}
+
+.Home{
+  display: flex;
+  justify-content: center;
+}
